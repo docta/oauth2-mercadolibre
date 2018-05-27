@@ -1,0 +1,19 @@
+# docta/oauth2-mercadolibre
+# @copyright 2018 Lucas Banegas
+# @license MIT
+
+title: MercadoLibre Provider for OAuth 2.0 Client
+baseUrl: https://docta.github.io/oauth2-mercadolibre/
+main: Docta\MercadoLibre\OAuth2\Client
+download: true
+
+source:
+- "./src"
+- "./vendor/guzzlehttp/guzzle"
+- "./vendor/guzzlehttp/promises"
+- "./vendor/guzzlehttp/psr7"
+- "./vendor/league/oauth2-client"
+- "./vendor/psr/http-message"
+
+exclude: ["*/tests/*"]
+destination: "./docs"
