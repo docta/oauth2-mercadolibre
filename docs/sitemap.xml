@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/index.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Docta.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Docta.MercadoLibre.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Docta.MercadoLibre.OAuth2.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Docta.MercadoLibre.OAuth2.Client.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.Cookie.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.Exception.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.Handler.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.Promise.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-GuzzleHttp.Psr7.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Grant.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Grant.Exception.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Provider.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Provider.Exception.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Token.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-League.OAuth2.Client.Tool.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Psr.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Psr.Http.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/namespace-Psr.Http.Message.html</loc>
+</url>
+
+
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/class-Docta.MercadoLibre.OAuth2.Client.Provider.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/class-Docta.MercadoLibre.OAuth2.Client.ResourceGeneric.html</loc>
+</url>
+<url>
+	<loc>https://docta.github.io/oauth2-mercadolibre/class-Docta.MercadoLibre.OAuth2.Client.ResourceOwner.html</loc>
+</url>
+</urlset>
